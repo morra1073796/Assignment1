@@ -1,4 +1,4 @@
 1073796  
-[Banana split](banana_split.md)  
-[Coppa nafta](coppa_nafta.md)  
-Gelateria Padovana  
+##Gelati  
+[Banana split](gelati/banana_split.md)  
+[Coppa nafta](gelati/coppa_nafta.md)  
